@@ -1,9 +1,10 @@
 {
-    "versionName": "1.3",
+    "versionName": "1.4",
     "release": 
     [
         "VK Account Login!",
         "•Link error Fix",
+        "•Android 12 fix",
         "•Bug fix"
       
     ]
